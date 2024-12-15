@@ -1,0 +1,8 @@
+This release is the first version. It has six tasks.
+UnifiedSignalTask for pin switch.
+TaskADCReader for ADC reading from FSR array.
+SensorTask for IMU register reading.
+ble_uart_task for BLE uart transmission in byte stream.
+TaskDateTime for soft RTC.
+ble_receive_task for receiving BLE uart string.
+processReceivedStringTask for string processing.
