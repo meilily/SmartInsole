@@ -1,0 +1,7 @@
+This release is the second version. It has six tasks. It implement a BLE transmission acknowledgement to increase transmission robustness.
+UnifiedSignalTask for pin switch and ADC reading from FSR array.
+SensorTask for IMU register reading.
+ble_uart_task for BLE uart transmission in byte stream.
+TaskDateTime for soft RTC.
+ble_receive_task for receiving BLE uart string and received command processing.
+dataMoveTask for move undelivered packet to resend buffer.
