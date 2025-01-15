@@ -1,5 +1,5 @@
 # Smart Insole Microcontroller Code
-This repository contains Arduino C++ code developed for a smart insole microcontroller based on the Seeed Studio Xiao nRF52840 Sense board. The project is designed to integrate multiple features for efficient data acquisition and communication.
+This repository contains Arduino C++ code developed for a smart insole microcontroller based on the [Seeed Studio XIAO nRF52840 Sense board](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html). The project is designed to integrate multiple features for efficient data acquisition and communication.
 
 Key Features:
 Sensor Management:
